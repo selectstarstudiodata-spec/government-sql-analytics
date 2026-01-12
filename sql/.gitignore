@@ -1,0 +1,18 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+*.csv
+*.xlsx
+*.json
+*.xml
+*.log
+
+# Local configs / secrets
+.env
+*.env
+*secret*
+*credential*
